@@ -1,0 +1,9 @@
+{
+  "name": "pipewrench-zomboid",
+  "version": "1.0.0",
+  "description": "PipeWrench Zomboid Typing",
+  "main": "",
+  "types": "Zomboid_41.71_References.d.ts",
+  "author": "",
+  "license": ""
+}
