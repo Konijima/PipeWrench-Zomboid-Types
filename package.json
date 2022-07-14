@@ -1,6 +1,6 @@
 {
   "name": "pipewrench-zomboid-types",
-  "version": "41.71",
+  "version": "0.41.71",
   "description": "PipeWrench Zomboid Typing",
   "main": "",
   "types": "Zomboid_41.71_References.d.ts",
